@@ -164,7 +164,8 @@
       "templates:Sablon beszúrása": false,
       "command-palette:Parancspaletta megnyitása": false,
       "bases:Új bázis létrehozása": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "21aa50a0c4532c53",
