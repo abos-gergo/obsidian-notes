@@ -165,7 +165,7 @@
         "value": false
       },
       "Should close after adding page": {
-        "value": false
+        "value": true
       },
       "Lock frame after it is created": {
         "value": true
