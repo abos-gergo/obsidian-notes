@@ -168,7 +168,7 @@
         "value": true
       },
       "Lock frame after it is created": {
-        "value": true
+        "value": false
       },
       "Print empty pages": {
         "value": false
