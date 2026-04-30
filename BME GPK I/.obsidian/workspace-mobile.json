@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84799c1efaa77a37",
+        "id": "4c844d201c918ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "2572c3921fec5282",
+            "id": "bd861e8f2e8efd5e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Festigkeitslehre/HA 8.md"
+                "file": "Festigkeitslehre/HA 9.md"
               },
               "icon": "excalidraw-icon",
-              "title": "HA 8"
-            }
-          },
-          {
-            "id": "83898f02368b7231",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Festigkeitslehre/EA 8.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "EA 8"
+              "title": "HA 9"
             }
           }
         ]
@@ -190,34 +178,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2572c3921fec5282",
+  "active": "bd861e8f2e8efd5e",
   "lastOpenFiles": [
-    "Festigkeitslehre/EA 8.md",
-    "Festigkeitslehre/HA 8.md",
-    "Festigkeitslehre/HA 7.md",
-    "Festigkeitslehre/EA 9.md",
-    "Festigkeitslehre/EA 4.md",
-    "Festigkeitslehre/GY 4.md",
-    "Festigkeitslehre/EA 5.md",
-    "Mathe G2/GY 8.md",
-    "Festigkeitslehre/HA 6.md",
-    "Festigkeitslehre/GY 6.md",
-    "Festigkeitslehre/GY 7.md",
+    "Festigkeitslehre/HA 9.md",
+    "Mathe G2/Selbstübung ZH2.md",
     "Mathe G2/GY 6.md",
+    "Mathe G2/Selbstübung ZH1.md",
+    "Mathe G2/GY 8.md",
     "Mathe G2/GY 4.md",
     "Mathe G2/GY 3.md",
+    "Festigkeitslehre/GY 7.md",
+    "Festigkeitslehre/Selbstübung.md",
+    "Festigkeitslehre/EA 3.md",
+    "Festigkeitslehre/EA 1.md",
+    "Festigkeitslehre/HA 7.md",
+    "Festigkeitslehre/EA 4.md",
+    "Festigkeitslehre/EA 5.md",
+    "Festigkeitslehre/GY 4.md",
+    "Festigkeitslehre/GY 5.md",
+    "Mathe G2/GY 9.md",
+    "Festigkeitslehre/GY 8.md",
+    "Festigkeitslehre/HA 8.md",
+    "Festigkeitslehre/GY 2.md",
+    "Festigkeitslehre/EA 8.md",
+    "Festigkeitslehre/EA 9.md",
+    "Festigkeitslehre/HA 6.md",
+    "Festigkeitslehre/GY 6.md",
     "Mathe G2/GY 2.md",
     "Festigkeitslehre/GY 1.md",
-    "Mathe G2/Muster 1.md",
-    "Mathe G2/Selbstübung ZH1.md",
-    "Festigkeitslehre/EA 6.md",
-    "Festigkeitslehre/HA 5.md",
-    "Festigkeitslehre/HA 4.md",
-    "Festigkeitslehre/GY 2.md",
-    "Festigkeitslehre/EA 1.md",
-    "Festigkeitslehre/EA 3.md",
-    "Festigkeitslehre/HA.md",
-    "Festigkeitslehre/GY 5.md",
     "Névtelen.canvas",
     "Excalidraw/Scripts/Downloaded/Printable Layout Wizard.svg",
     "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
